@@ -1,0 +1,17 @@
+golang-gopkg-jcmturner-aescts.v1 (1.0.1-3) unstable; urgency=medium
+
+  * Actually upload as source-only
+
+ -- Stephen Gelman <ssgelm@debian.org>  Tue, 25 Feb 2020 23:04:16 -0600
+
+golang-gopkg-jcmturner-aescts.v1 (1.0.1-2) unstable; urgency=medium
+
+  * Reupload as source-only
+
+ -- Stephen Gelman <ssgelm@debian.org>  Tue, 25 Feb 2020 22:59:33 -0600
+
+golang-gopkg-jcmturner-aescts.v1 (1.0.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #951817)
+
+ -- Stephen Gelman <ssgelm@debian.org>  Fri, 21 Feb 2020 16:52:20 -0600
